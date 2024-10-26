@@ -1,0 +1,1111 @@
+﻿..\..\src\theora\analyze.c(115): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(115): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\analyze.c(129): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(129): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\analyze.c(175): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(175): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\analyze.c(425): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(425): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\analyze.c(517): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(517): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\analyze.c(570): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(570): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(575): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(575): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(564): warning : comparison of integers of different signs: 'unsigned int' and 'int' [-Wsign-compare]
+..\..\src\theora\analyze.c(620): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(620): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(621): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(621): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(743): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(743): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\analyze.c(762): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(762): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\analyze.c(779): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(779): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\analyze.c(1052): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1052): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1092): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1092): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1093): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+  ..\..\src\theora\analyze.c(1093): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+..\..\src\theora\analyze.c(1109): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1109): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1110): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+  ..\..\src\theora\analyze.c(1110): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+..\..\src\theora\analyze.c(1119): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1119): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1120): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+  ..\..\src\theora\analyze.c(1120): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+..\..\src\theora\analyze.c(1180): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1180): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1181): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+  ..\..\src\theora\analyze.c(1181): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+..\..\src\theora\analyze.c(1198): warning : variable 'sb_flags' set but not used [-Wunused-but-set-variable]
+..\..\src\theora\analyze.c(1235): warning : variable 'embs' set but not used [-Wunused-but-set-variable]
+..\..\src\theora\analyze.c(1322): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+  ..\..\src\theora\analyze.c(1322): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+..\..\src\theora\analyze.c(1382): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1382): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1384): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1384): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1385): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+  ..\..\src\theora\analyze.c(1385): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+..\..\src\theora\analyze.c(1391): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1391): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1392): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+  ..\..\src\theora\analyze.c(1392): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+..\..\src\theora\analyze.c(1403): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1403): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1405): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+  ..\..\src\theora\analyze.c(1405): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+..\..\src\theora\analyze.c(1452): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1452): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1459): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1338): note: expanded from macro 'OC_CHROMA_QII_RATE'
+  ..\..\src\theora\analyze.c(1459): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\analyze.c(1338): note: expanded from macro 'OC_CHROMA_QII_RATE'
+..\..\src\theora\analyze.c(1459): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1338): note: expanded from macro 'OC_CHROMA_QII_RATE'
+  ..\..\src\theora\analyze.c(1459): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1338): note: expanded from macro 'OC_CHROMA_QII_RATE'
+..\..\src\theora\analyze.c(1460): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+  ..\..\src\theora\analyze.c(1460): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+..\..\src\theora\analyze.c(1464): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1338): note: expanded from macro 'OC_CHROMA_QII_RATE'
+  ..\..\src\theora\analyze.c(1464): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\analyze.c(1338): note: expanded from macro 'OC_CHROMA_QII_RATE'
+..\..\src\theora\analyze.c(1464): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1338): note: expanded from macro 'OC_CHROMA_QII_RATE'
+  ..\..\src\theora\analyze.c(1464): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1338): note: expanded from macro 'OC_CHROMA_QII_RATE'
+..\..\src\theora\analyze.c(1465): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+  ..\..\src\theora\analyze.c(1465): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+..\..\src\theora\analyze.c(1475): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+  ..\..\src\theora\analyze.c(1475): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\analyze.c(1029): note: expanded from macro 'OC_MODE_RD_COST'
+..\..\src\theora\analyze.c(1486): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1486): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1428): warning : unused parameter '_fr' [-Wunused-parameter]
+..\..\src\theora\analyze.c(1428): warning : unused parameter '_qs' [-Wunused-parameter]
+..\..\src\theora\analyze.c(1557): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1557): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1593): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1593): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1550): warning : comparison of integers of different signs: 'int' and 'unsigned int' [-Wsign-compare]
+..\..\src\theora\analyze.c(1589): warning : comparison of integers of different signs: 'int' and 'unsigned int' [-Wsign-compare]
+..\..\src\theora\analyze.c(1637): warning : unused parameter '_mbi' [-Wunused-parameter]
+..\..\src\theora\analyze.c(1740): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1740): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1849): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\analyze.c(1849): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\analyze.c(1874): warning : variable 'qi' set but not used [-Wunused-but-set-variable]
+..\..\src\theora\analyze.c(1879): warning : variable 'vdec' set but not used [-Wunused-but-set-variable]
+..\..\src\theora\bitpack.c(41): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\bitpack.c(41): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\bitpack.c(61): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\bitpack.c(61): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\bitpack.c(81): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\bitpack.c(81): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\bitpack.c(100): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\bitpack.c(100): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\cpu.c(24): warning : unused function 'oc_cpu_flags_get' [-Wunused-function]
+..\..\src\theora\decinfo.c(58): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\decinfo.c(58): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\encfrag.c(108): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encfrag.c(108): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encfrag.c(180): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encfrag.c(180): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encfrag.c(181): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encfrag.c(181): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encfrag.c(184): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encfrag.c(184): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encfrag.c(185): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encfrag.c(185): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encfrag.c(188): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encfrag.c(188): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encfrag.c(189): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encfrag.c(189): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encfrag.c(192): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encfrag.c(192): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encfrag.c(193): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encfrag.c(193): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encfrag.c(373): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encfrag.c(373): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(614): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(614): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(615): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(615): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(803): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(803): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(965): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(965): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(968): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(968): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(973): warning : comparison of integers of different signs: 'int' and 'unsigned int' [-Wsign-compare]
+..\..\src\theora\encode.c(973): warning : comparison of integers of different signs: 'int' and 'unsigned int' [-Wsign-compare]
+..\..\src\theora\encode.c(982): warning : comparison of integers of different signs: 'int' and 'unsigned int' [-Wsign-compare]
+..\..\src\theora\encode.c(982): warning : comparison of integers of different signs: 'int' and 'unsigned int' [-Wsign-compare]
+..\..\src\theora\encode.c(1068): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(1068): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(1208): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(1208): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(1215): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(1215): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(1243): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\encode.c(1243): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\encode.c(1244): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\encode.c(1244): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\encode.c(1250): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\encode.c(1250): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\encode.c(1251): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\encode.c(1251): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\encode.c(1375): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\encode.c(1375): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\encode.c(1384): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\encode.c(1384): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\encode.c(1323): warning : comparison of integers of different signs: 'int' and 'ogg_uint32_t' (aka 'unsigned int') [-Wsign-compare]
+..\..\src\theora\encode.c(1444): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(1444): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(1453): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(1453): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(1462): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(1462): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(1471): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(1471): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(1433): warning : comparison of integers of different signs: 'ogg_uint32_t' (aka 'unsigned int') and 'ogg_int32_t' (aka 'int') [-Wsign-compare]
+..\..\src\theora\encode.c(1442): warning : comparison of integers of different signs: 'ogg_uint32_t' (aka 'unsigned int') and 'ogg_int32_t' (aka 'int') [-Wsign-compare]
+..\..\src\theora\encode.c(1444): warning : comparison of integers of different signs: 'ogg_uint32_t' (aka 'unsigned int') and 'ogg_int32_t' (aka 'int') [-Wsign-compare]
+..\..\src\theora\encode.c(1451): warning : comparison of integers of different signs: 'ogg_uint32_t' (aka 'unsigned int') and 'ogg_int32_t' (aka 'int') [-Wsign-compare]
+..\..\src\theora\encode.c(1453): warning : comparison of integers of different signs: 'ogg_uint32_t' (aka 'unsigned int') and 'ogg_int32_t' (aka 'int') [-Wsign-compare]
+..\..\src\theora\encode.c(1519): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(1519): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\encode.c(1521): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\encode.c(1521): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\enquant.c(127): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\enquant.c(127): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\enquant.c(272): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\enquant.c(272): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\fdct.c(86): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(86): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(86): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(86): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(91): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(91): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(91): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(91): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(97): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(97): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(98): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(98): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(99): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(99): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(104): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(104): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(106): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(106): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(110): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(110): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(112): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(112): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(116): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(116): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(118): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(118): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fdct.c(155): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\fdct.c(155): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\fragment.c(76): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\fragment.c(76): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\fragment.c(76): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\fragment.c(76): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\fragment.c(76): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\fragment.c(76): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\huffdec.c(121): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\huffdec.c(121): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\huffdec.c(141): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\huffdec.c(141): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\huffdec.c(184): warning : performing pointer subtraction with a null pointer has undefined behavior [-Wnull-pointer-subtraction]
+  ..\..\src\theora\huffdec.c(27): note: expanded from macro '_ogg_offsetof'
+..\..\src\theora\huffdec.c(210): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\huffdec.c(210): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\huffdec.c(328): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\huffdec.c(328): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\huffenc.c(865): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\huffenc.c(865): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\internal.c(111): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+  ..\..\src\theora\internal.c(111): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+..\..\src\theora\internal.c(112): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+  ..\..\src\theora\internal.c(112): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+..\..\src\theora\internal.c(125): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+  ..\..\src\theora\internal.c(125): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+..\..\src\theora\internal.c(126): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+  ..\..\src\theora\internal.c(126): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+..\..\src\theora\internal.c(129): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+  ..\..\src\theora\internal.c(129): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+..\..\src\theora\internal.c(130): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+  ..\..\src\theora\internal.c(130): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+..\..\src\theora\internal.c(143): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+  ..\..\src\theora\internal.c(143): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+..\..\src\theora\internal.c(144): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+  ..\..\src\theora\internal.c(144): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+..\..\src\theora\internal.c(147): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+  ..\..\src\theora\internal.c(147): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+..\..\src\theora\internal.c(148): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+  ..\..\src\theora\internal.c(148): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(88): note: expanded from macro 'OC_DIV_ROUND_POW2'
+..\..\src\theora\mathops.c(180): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(180): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(188): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(188): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(196): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(196): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(197): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(197): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\mathops.c(221): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(221): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\mathops.c(227): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(227): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\mathops.c(227): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(227): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(257): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(257): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(258): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(258): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(265): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(265): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(266): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(266): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(273): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(273): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(274): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(274): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(281): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(281): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(282): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(282): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(289): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(289): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(290): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(290): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mathops.c(293): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mathops.c(293): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mcenc.c(151): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(151): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(152): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(152): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(287): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mcenc.c(287): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mcenc.c(324): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mcenc.c(324): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mcenc.c(347): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mcenc.c(347): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mcenc.c(376): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(376): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(376): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(376): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(377): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(377): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(377): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(377): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(383): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mcenc.c(383): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mcenc.c(441): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(441): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(441): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(441): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(442): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(442): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(442): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(442): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(82): note: expanded from macro 'OC_DIV16'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(448): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\mcenc.c(448): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\mcenc.c(632): warning : comparison of integers of different signs: 'int' and 'unsigned int' [-Wsign-compare]
+..\..\src\theora\mcenc.c(646): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(646): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(647): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(647): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(760): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(760): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\mcenc.c(761): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+  ..\..\src\theora\mcenc.c(761): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(78): note: expanded from macro 'OC_DIV2'
+  ..\..\src\theora\ocintrin.h(74): note: expanded from macro 'OC_DIV_POW2'
+..\..\src\theora\rate.c(45): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(45): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\rate.c(45): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(45): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(79): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(79): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(79): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(79): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(89): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(89): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(90): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(90): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(91): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(91): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(118): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(118): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(144): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\rate.c(144): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\rate.c(223): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(223): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(266): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(266): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(266): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(266): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(267): warning : comparison of integers of different signs: 'int' and 'ogg_uint32_t' (aka 'unsigned int') [-Wsign-compare]
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+..\..\src\theora\rate.c(363): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(363): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(363): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(363): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(364): warning : comparison of integers of different signs: 'int' and 'ogg_uint32_t' (aka 'unsigned int') [-Wsign-compare]
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+..\..\src\theora\rate.c(383): warning : comparison of integers of different signs: 'int' and 'ogg_uint32_t' (aka 'unsigned int') [-Wsign-compare]
+..\..\src\theora\rate.c(452): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(452): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(643): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(643): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(671): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(671): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\rate.c(676): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(676): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\rate.c(679): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(679): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\rate.c(712): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(712): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\rate.c(722): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\rate.c(722): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\rate.c(488): warning : comparison of integers of different signs: 'int' and 'ogg_uint32_t' (aka 'unsigned int') [-Wsign-compare]
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+..\..\src\theora\rate.c(739): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\rate.c(739): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\rate.c(732): warning : unused parameter '_qi' [-Wunused-parameter]
+..\..\src\theora\rate.c(745): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\mathops.h(136): note: expanded from macro 'OC_Q57'
+..\..\src\theora\rate.c(929): warning : comparison of integers of different signs: 'int' and 'size_t' (aka 'unsigned long long') [-Wsign-compare]
+..\..\src\theora\rate.c(1073): warning : comparison of integers of different signs: 'ogg_uint32_t' (aka 'unsigned int') and 'int' [-Wsign-compare]
+  ..\..\src\theora\ocintrin.h(58): note: expanded from macro 'OC_CLAMPI'
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+  ..\..\src\theora\ocintrin.h(50): note: expanded from macro 'OC_MAXI'
+..\..\src\theora\rate.c(1073): warning : comparison of integers of different signs: 'ogg_uint32_t' (aka 'unsigned int') and 'int' [-Wsign-compare]
+  ..\..\src\theora\ocintrin.h(58): note: expanded from macro 'OC_CLAMPI'
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+  ..\..\src\theora\ocintrin.h(50): note: expanded from macro 'OC_MAXI'
+..\..\src\theora\rate.c(1108): warning : comparison of integers of different signs: 'ogg_uint32_t' (aka 'unsigned int') and 'int' [-Wsign-compare]
+  ..\..\src\theora\ocintrin.h(58): note: expanded from macro 'OC_CLAMPI'
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+  ..\..\src\theora\ocintrin.h(50): note: expanded from macro 'OC_MAXI'
+..\..\src\theora\rate.c(1108): warning : comparison of integers of different signs: 'ogg_uint32_t' (aka 'unsigned int') and 'int' [-Wsign-compare]
+  ..\..\src\theora\ocintrin.h(58): note: expanded from macro 'OC_CLAMPI'
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+  ..\..\src\theora\ocintrin.h(50): note: expanded from macro 'OC_MAXI'
+..\..\src\theora\state.c(295): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\state.c(295): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\state.c(299): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\state.c(299): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\state.c(317): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\state.c(317): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\state.c(317): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\state.c(317): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\state.c(318): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\state.c(318): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\state.c(318): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\state.c(318): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\state.c(377): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\state.c(377): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\state.c(378): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\state.c(378): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\state.c(383): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\state.c(383): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\state.c(384): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\state.c(384): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\state.c(385): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\state.c(385): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\state.c(386): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\state.c(386): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\state.c(509): warning : comparison of integers of different signs: 'size_t' (aka 'unsigned long long') and 'int' [-Wsign-compare]
+..\..\src\theora\state.c(888): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\state.c(888): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\state.c(961): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\state.c(961): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\state.c(977): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\state.c(977): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\tokenize.c(88): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\tokenize.c(88): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\tokenize.c(98): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\tokenize.c(98): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\tokenize.c(237): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\tokenize.c(237): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\tokenize.c(296): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\tokenize.c(296): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\tokenize.c(309): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\tokenize.c(309): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\tokenize.c(333): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\tokenize.c(333): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\tokenize.c(335): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\tokenize.c(335): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\tokenize.c(364): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\tokenize.c(364): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\tokenize.c(364): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\tokenize.c(364): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\tokenize.c(364): warning : operator '>>' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\tokenize.c(364): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\tokenize.c(390): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\tokenize.c(390): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\tokenize.c(215): warning : unused parameter '_fragi' [-Wunused-parameter]
+..\..\src\theora\tokenize.c(921): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\tokenize.c(921): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\decode.c(176): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(176): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(179): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(179): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(180): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(180): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(182): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(182): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(183): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(183): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(185): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(185): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(186): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(186): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(188): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(188): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(189): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(189): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(190): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(190): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(191): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(191): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(194): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(194): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(195): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(195): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(195): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(198): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(198): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(198): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(201): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(201): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(203): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(203): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(205): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(205): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(207): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(207): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(208): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(208): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(208): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(209): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(209): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(210): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(210): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(210): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(211): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(211): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(212): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(212): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(212): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(213): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(213): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(214): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(214): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(214): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(215): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(215): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(216): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(216): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(216): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(218): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(218): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(219): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(219): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(220): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(220): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(220): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(221): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(221): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(221): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(223): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(223): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(224): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(224): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(225): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(225): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(226): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(226): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(227): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(227): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(227): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(228): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(228): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(228): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(229): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(229): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(229): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(230): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(230): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(230): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(232): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(232): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(233): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(233): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(234): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(234): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(235): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(235): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(236): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(236): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(236): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(237): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(237): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(237): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(238): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(238): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(238): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(239): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(239): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(239): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(242): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(242): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(242): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(243): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(243): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(244): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(244): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(245): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(245): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(246): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(246): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(247): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(247): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(248): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(248): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(249): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(249): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(251): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(251): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(253): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(253): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(253): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(255): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(255): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(257): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(257): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(257): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(259): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(259): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(260): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(260): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(260): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(261): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(261): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(262): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(262): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(262): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(263): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(263): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(264): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(264): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(264): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(265): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(265): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(266): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(266): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(266): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(268): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(268): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(269): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(269): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(270): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(270): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(270): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(271): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(271): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(271): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(273): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(273): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(274): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(274): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(275): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(275): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(276): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(276): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(277): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(277): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(277): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(278): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(278): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(278): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(279): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(279): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(279): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(280): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(280): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(280): warning : shifting a negative signed value is undefined [-Wshift-negative-value]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(282): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(282): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(283): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(283): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(284): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(284): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(285): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(285): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(286): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(286): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(287): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(287): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(288): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(288): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(289): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(289): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(291): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(291): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(292): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(292): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(293): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(293): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(294): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+  ..\..\src\theora\decode.c(294): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\decode.c(150): note: expanded from macro 'OC_DCT_CW_PACK'
+..\..\src\theora\decode.c(402): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(402): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(751): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(751): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\decode.c(1007): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1007): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1009): warning : comparison of integers of different signs: 'int' and 'unsigned long long' [-Wsign-compare]
+  ..\..\src\theora\decode.c(121): note: expanded from macro 'OC_DCT_TOKEN_NEEDS_MORE'
+..\..\src\theora\decode.c(1085): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1085): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1087): warning : comparison of integers of different signs: 'int' and 'unsigned long long' [-Wsign-compare]
+  ..\..\src\theora\decode.c(121): note: expanded from macro 'OC_DCT_TOKEN_NEEDS_MORE'
+..\..\src\theora\decode.c(1557): warning : comparison of integers of different signs: 'int' and 'unsigned long long' [-Wsign-compare]
+  ..\..\src\theora\decode.c(121): note: expanded from macro 'OC_DCT_TOKEN_NEEDS_MORE'
+..\..\src\theora\decode.c(1631): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1631): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1633): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1633): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1637): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1637): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1640): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1640): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1642): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1642): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1679): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1679): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1680): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1680): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1683): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1683): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1685): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1685): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1686): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1686): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1737): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1737): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\decode.c(1802): warning : | has lower precedence than <; < will be evaluated first [-Wparentheses]
+  ..\..\src\theora\decode.c(1802): note: place parentheses around the '<' expression to silence this warning
+  ..\..\src\theora\decode.c(1802): note: place parentheses around the | expression to evaluate it first
+..\..\src\theora\decode.c(1816): warning : | has lower precedence than <; < will be evaluated first [-Wparentheses]
+  ..\..\src\theora\decode.c(1816): note: place parentheses around the '<' expression to silence this warning
+  ..\..\src\theora\decode.c(1816): note: place parentheses around the | expression to evaluate it first
+..\..\src\theora\decode.c(1833): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1833): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1839): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\decode.c(1839): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\decode.c(1839): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\decode.c(1839): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\decode.c(1839): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\decode.c(1839): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\decode.c(1849): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1849): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1852): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1852): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1855): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\decode.c(1855): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\decode.c(1855): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\decode.c(1855): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\decode.c(1855): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\decode.c(1855): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\decode.c(1865): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(1865): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(1871): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\decode.c(1871): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\decode.c(1871): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\decode.c(1871): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\decode.c(1871): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+  ..\..\src\theora\decode.c(1871): note: place parentheses around the '+' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(59): note: expanded from macro 'OC_CLAMP255'
+..\..\src\theora\decode.c(1875): warning : | has lower precedence than <; < will be evaluated first [-Wparentheses]
+  ..\..\src\theora\decode.c(1875): note: place parentheses around the '<' expression to silence this warning
+  ..\..\src\theora\decode.c(1875): note: place parentheses around the | expression to evaluate it first
+..\..\src\theora\decode.c(1926): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\decode.c(1926): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\decode.c(1927): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\decode.c(1927): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\decode.c(1928): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\decode.c(1928): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\decode.c(1929): warning : '&&' within '||' [-Wlogical-op-parentheses]
+  ..\..\src\theora\decode.c(1929): note: place parentheses around the '&&' expression to silence this warning
+..\..\src\theora\decode.c(2136): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(2136): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\decode.c(2199): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(2199): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\decode.c(2200): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(2200): note: place parentheses around the '-' expression to silence this warning
+..\..\src\theora\decode.c(2229): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+  ..\..\src\theora\decode.c(2229): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+..\..\src\theora\decode.c(2229): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+  ..\..\src\theora\decode.c(2229): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+..\..\src\theora\decode.c(2231): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+  ..\..\src\theora\decode.c(2231): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+..\..\src\theora\decode.c(2231): warning : operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+  ..\..\src\theora\decode.c(2231): note: place parentheses around the '-' expression to silence this warning
+  ..\..\src\theora\ocintrin.h(51): note: expanded from macro 'OC_MINI'
+..\..\src\theora\decode.c(2282): warning : operator '<<' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\decode.c(2282): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\idct.c(245): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\idct.c(245): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\idct.c(276): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\idct.c(276): note: place parentheses around the '+' expression to silence this warning
+..\..\src\theora\idct.c(295): warning : operator '>>' has lower precedence than '+'; '+' will be evaluated first [-Wshift-op-parentheses]
+  ..\..\src\theora\idct.c(295): note: place parentheses around the '+' expression to silence this warning
+lld-link : error : unknown directive: #

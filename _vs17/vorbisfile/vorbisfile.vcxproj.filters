@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="vorbisfile">
+      <UniqueIdentifier>{771361b1-6b7a-4fed-9dc3-231a3d0db044}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_dll">
+      <UniqueIdentifier>{d2666b79-db2b-4701-b637-884f4782d6d5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\inc\vorbis\vorbisfile.h">
+      <Filter>vorbisfile</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>_dll</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\vorbis\vorbisfile.c">
+      <Filter>vorbisfile</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="vorbisfile.rc">
+      <Filter>_dll</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
